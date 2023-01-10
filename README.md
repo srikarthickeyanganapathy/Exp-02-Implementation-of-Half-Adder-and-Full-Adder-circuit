@@ -34,9 +34,10 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
+### Program1:
 ![OUTPUT](./halfaddprojectDE/program.png)
+
+### Program2:
 
 ![OUTPUT](./fulladd%20project%20DE/pro.png)
 ```
@@ -49,18 +50,24 @@ RTL realization
 
 ### Output:
 
-### RTL:
+### RTL1:
 ![RTL](./halfaddprojectDE/RTLimage.png)
+
+### RTL2:
 
 ![RTL](./fulladd%20project%20DE/rtl.png)
 
-### TIMING DIAGRAM:
+### TIMING DIAGRAM1:
 ![TIMING DIAGRAM](./halfaddprojectDE/timingdiagram.png)
+
+### TIMING DIAGRAM2:
 
 ![TIMING DIAGRAM](./fulladd%20project%20DE/td.png)
 
-### TRUTH TABLE:
+### TRUTH TABLE1:
 ![TRUTH TABLE](./halfaddprojectDE/Truthtable.png)
+
+### TRUTH TABLE2:
 
 ![TRUTH TABLE](./fulladd%20project%20DE/tt.png)
 
