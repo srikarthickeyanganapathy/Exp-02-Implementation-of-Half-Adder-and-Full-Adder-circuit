@@ -31,10 +31,10 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 ### Procedure
 
-1.Using xor,and,not,or gates and wires ,construct Half Adder.
-2.Repeat same steps to construct for Full Adder.
-3.Find RTL logic and timing diagram for both Adders.
-4.End the program
+#### 1.Using xor,and,not,or gates and wires ,construct Half Adder.
+#### 2.Repeat same steps to construct for Full Adder.
+#### 3.Find RTL logic and timing diagram for both Adders.
+#### 4.End the program
 
 ### Program1:
 ![OUTPUT](./halfaddprojectDE/program.png)
